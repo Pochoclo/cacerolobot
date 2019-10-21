@@ -1,5 +1,6 @@
 # CACEROLOBOT
 El codigo de nuestro pequeño luchador
+![](https://media.giphy.com/media/QWvamj343WErKEmCqz/giphy.gif)
 
 ## Piezas Requeridas
 El cerebro del bot corresponde a una placa wemos d1 mini que tiene un microprocesador ESP8266. La pantalla OLED es de 64x48 tambien de wemos. Los brazos corresponden a servomotores SG90.

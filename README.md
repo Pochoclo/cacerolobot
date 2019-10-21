@@ -1,5 +1,5 @@
 # CACEROLOBOT
-El codigo de nuestro pequeño luchador
+El codigo de nuestro pequeño luchador, si quieren ver mas actualizaciones o videos del robot pueden verlos desde mi instagram [@nicosepuvilla](https://www.instagram.com/nicosepuvilla)
 
 ![](https://media.giphy.com/media/QWvamj343WErKEmCqz/giphy.gif)
 
@@ -14,6 +14,20 @@ El cerebro del bot corresponde a una placa wemos d1 mini que tiene un microproce
 
 - Servomotor SG90
 ![](https://robu.in/wp-content/uploads/2017/09/IMG_0521.jpg)
+
+- Jumpers macho-macho
+![](https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5725/DB96/856C/5C75/2BBB/C0A8/2AB9/8875/Cables_Dupont_macho_macho_00con_marca_ml.JPG)
+
+- Protoboard
+![](https://www.geekfactory.mx/wp-content/uploads/2014/04/prototipos_1.jpg)
+
+
+## Conexiones
+
+Las conexiones que se deben hacer son las siguientes
+
+![](blob:https://web.whatsapp.com/ec8c5967-2ed7-4927-a6ca-639e3298f38b)
+
 
 ## Descargas e instalación
 

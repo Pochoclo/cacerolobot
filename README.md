@@ -26,7 +26,11 @@ El cerebro del bot corresponde a una placa wemos d1 mini que tiene un microproce
 
 Las conexiones que se deben hacer son las siguientes
 
-![](blob:https://web.whatsapp.com/ec8c5967-2ed7-4927-a6ca-639e3298f38b)
+![](https://i.ibb.co/GW3tRz3/conexiones.jpg)
+
+Si bien el cable que se ve de los dos servos es del mismo color, cada uno está conectado a un pin distinto de la placa, uno conectado al pin D3 y otro conectado al pin D6.
+
+Los cables del servomotor tienen colores y estos estan indicados en la imagen a que corresponden.
 
 
 ## Descargas e instalación

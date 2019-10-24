@@ -21,6 +21,22 @@ El cerebro del bot corresponde a una placa wemos d1 mini que tiene un microproce
 - Protoboard
 ![](https://www.geekfactory.mx/wp-content/uploads/2014/04/prototipos_1.jpg)
 
+## Donde comprar?
+Muchas personas me han preguntado donde pueden conseguir los materiales para la construcción de su propio cacerolobot. La verdad existen muchas tiendas donde pueden conseguir los materiales aquí en Chile. Idealmente, por precio les recomendaría encargar por aliexpress dado que las tiendas establecidas en Chile cobran más caro por los materiales, pero los tienen disponibles inmediatamentes.
+Lo importante es que cotizen bien donde comprar, hay varias tiendas, por lo general el recorrido que hago para buscarlas es
+
+- Google (directamente para ver las tiendas disponibles)
+- AliExpress (necesitan tarjeta de crédito para esto, pero la app Match da una buena ayuda en ese sentido)
+- Mercadolibre (para ver el rango de precios a que esta mas o menos en el país)
+
+Distribuidores de componentes electrónicos y de hobby que conozco en Santiago son los siguientes
+- [Afel](https://afel.cl/)
+- [amgkits](https://amgkits.com/)
+- [mirax](https://mirax.cl/)
+- [olimex](http://olimex.cl/)
+
+Nuevamente les recomiendo cotizar bien si van a comprar directamente en Chile, dado que a veces hay lugares donde es más baratos que en otros.
+
 
 ## Conexiones
 
